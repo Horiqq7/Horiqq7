@@ -20,7 +20,7 @@ I'm a 3rd-year Computer Science student at **Politehnica Bucharest**, passionate
 
 ### 📫 Let's Connect!
 * **Email**: [horiarusu612@gmail.com](mailto:horiarusu612@gmail.com)
-* **LinkedIn**: [linkedin.com/in/horiarusu](https://www.linkedin.com/in/horia-rusu-b0a1b2c3/)
+* **LinkedIn**: [linkedin.com/in/horiarusu](https://www.linkedin.com/in/horia-rusu-b2691b330/)
 * **Education**: B.S. in Computer Science @ UPB (2023 - 2027)
 
 ---
