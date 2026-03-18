@@ -4,7 +4,7 @@ I'm a Computer Science student at **Politehnica Bucharest**, passionate about bu
 
 ### Technical Expertise
 
-* **Core Programming**: Java (OOP), C, C++
+* **Core Programming**: Java (OOP), C, C++, Python
 * **Systems & Architecture**: Parallel & Distributed Algorithms, Operating Systems
 * **Networking**: IPv4 Forwarding, TCP/UDP Message Brokers, Socket Programming
 * **Graphics & Simulations**: 3D Rendering (OpenGL), Real-time Game Logic
